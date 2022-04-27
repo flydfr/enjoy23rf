@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/flydfr/enjoy23rf",
+  "repository": "https://github.com/flydfr/enjoy23rf",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
